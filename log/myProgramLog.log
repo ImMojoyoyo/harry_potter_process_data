@@ -1,0 +1,391 @@
+ 2022-09-13 18:52:01,195 - INFO - Download data from URL
+ 2022-09-13 18:52:01,291 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 18:52:01,490 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 18:53:08,366 - INFO - Download data from URL
+ 2022-09-13 18:53:08,419 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 18:53:08,612 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 18:53:09,538 - INFO - Status code: 200
+ 2022-09-13 18:53:09,538 - INFO - Download done.
+ 2022-09-13 19:03:25,087 - INFO - Download data from URL
+ 2022-09-13 19:03:25,129 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 19:03:25,539 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 19:03:25,637 - INFO - Status code: 200
+ 2022-09-13 19:03:25,638 - INFO - Download done.
+ 2022-09-13 19:06:48,815 - INFO - Download data from URL
+ 2022-09-13 19:06:49,002 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 19:06:49,193 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 19:06:49,363 - INFO - Status code: 200
+ 2022-09-13 19:06:49,364 - INFO - Download done.
+ 2022-09-13 19:15:44,285 - INFO - Download data from URL
+ 2022-09-13 19:15:44,327 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 19:15:44,519 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 19:15:44,822 - INFO - Status code: 200
+ 2022-09-13 19:15:44,823 - INFO - Download done.
+ 2022-09-13 19:17:55,499 - INFO - Download data from URL
+ 2022-09-13 19:17:55,542 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 19:17:56,972 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 19:17:57,973 - INFO - Status code: 200
+ 2022-09-13 19:17:57,973 - INFO - Download done.
+ 2022-09-13 19:18:31,137 - INFO - Download data from URL
+ 2022-09-13 19:18:31,202 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-13 19:18:31,675 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-13 19:18:31,775 - INFO - Status code: 200
+ 2022-09-13 19:18:31,775 - INFO - Download done.
+ 2022-09-14 08:12:26,619 - INFO - Download data from URL
+ 2022-09-14 08:12:26,693 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-14 08:12:27,135 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-14 08:12:27,304 - INFO - Status code: 200
+ 2022-09-14 08:12:27,305 - INFO - Download done.
+ 2022-09-14 08:57:39,481 - INFO - Download data from URL
+ 2022-09-14 08:57:39,534 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-14 08:57:39,797 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-14 08:57:39,900 - INFO - Status code: 200
+ 2022-09-14 08:57:39,900 - INFO - Download done.
+ 2022-09-14 08:58:38,139 - INFO - Download data from URL
+ 2022-09-14 08:58:38,193 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-14 08:58:38,418 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-14 08:58:38,524 - INFO - Status code: 200
+ 2022-09-14 08:58:38,525 - INFO - Download done.
+ 2022-09-15 08:35:04,573 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 08:36:22,668 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 08:36:22,971 - INFO - Download data from URL
+ 2022-09-15 08:36:23,082 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 08:36:23,332 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 08:36:23,425 - INFO - Status code: 200
+ 2022-09-15 08:36:23,426 - INFO - Download done.
+ 2022-09-15 10:19:20,606 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:19:42,796 - INFO - Download data from URL
+ 2022-09-15 10:19:43,040 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:19:43,234 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:19:43,324 - INFO - Status code: 200
+ 2022-09-15 10:19:43,325 - INFO - Download done.
+ 2022-09-15 10:20:07,525 - INFO - Download data from URL
+ 2022-09-15 10:20:07,722 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:20:07,956 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:20:08,205 - INFO - Status code: 200
+ 2022-09-15 10:20:08,205 - INFO - Download done.
+ 2022-09-15 10:20:33,379 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:20:33,640 - INFO - Download data from URL
+ 2022-09-15 10:20:33,763 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:20:33,997 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:20:34,092 - INFO - Status code: 200
+ 2022-09-15 10:20:34,093 - INFO - Download done.
+ 2022-09-15 10:40:01,425 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:40:29,140 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:40:29,409 - INFO - Download data from URL
+ 2022-09-15 10:40:29,655 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:40:29,858 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:40:29,951 - INFO - Status code: 200
+ 2022-09-15 10:40:29,952 - INFO - Error to download.
+ 2022-09-15 10:41:28,888 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:41:29,153 - INFO - Download data from URL
+ 2022-09-15 10:41:29,421 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:41:29,636 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:41:29,807 - INFO - Status code: 200
+ 2022-09-15 10:41:29,807 - INFO - Error to download.
+ 2022-09-15 10:42:10,965 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:42:11,234 - INFO - Download data from URL
+ 2022-09-15 10:42:11,405 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:42:11,599 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:42:11,752 - INFO - Status code: 200
+ 2022-09-15 10:42:11,753 - INFO - Error to download.
+ 2022-09-15 10:42:23,271 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:42:23,544 - INFO - Download data from URL
+ 2022-09-15 10:42:23,555 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:42:23,942 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:42:24,038 - INFO - Status code: 200
+ 2022-09-15 10:42:24,039 - INFO - Error to download.
+ 2022-09-15 10:43:04,717 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:43:04,990 - INFO - Download data from URL
+ 2022-09-15 10:43:05,043 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:43:05,328 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:43:05,424 - INFO - Status code: 200
+ 2022-09-15 10:43:05,425 - INFO - Error to download.
+ 2022-09-15 10:45:10,737 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:45:11,004 - INFO - Download data from URL
+ 2022-09-15 10:45:11,108 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:45:11,319 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:45:11,420 - INFO - Status code: 200
+ 2022-09-15 10:45:11,421 - INFO - Download done.
+ 2022-09-15 10:47:18,630 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:47:18,907 - INFO - Download data from URL
+ 2022-09-15 10:47:19,010 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:47:19,227 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:47:19,331 - INFO - Status code: 200
+ 2022-09-15 10:47:19,332 - INFO - Error to download.
+ 2022-09-15 10:47:53,751 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:47:54,015 - INFO - Download data from URL
+ 2022-09-15 10:47:54,275 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:47:54,494 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:47:54,619 - INFO - Status code: 200
+ 2022-09-15 10:47:54,632 - INFO - Download done.
+ 2022-09-15 10:48:11,967 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:48:12,261 - INFO - Download data from URL
+ 2022-09-15 10:48:12,316 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:48:12,553 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:48:12,654 - INFO - Status code: 200
+ 2022-09-15 10:48:12,671 - INFO - Download done.
+ 2022-09-15 10:48:48,340 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:48:48,615 - INFO - Download data from URL
+ 2022-09-15 10:48:48,795 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:48:49,003 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:48:49,142 - INFO - Status code: 200
+ 2022-09-15 10:48:49,157 - INFO - Download done.
+ 2022-09-15 10:52:50,836 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:52:51,112 - INFO - Download data from URL
+ 2022-09-15 10:52:51,169 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:52:51,435 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:52:51,539 - INFO - Status code: 200
+ 2022-09-15 10:52:51,540 - INFO - Error to download.
+ 2022-09-15 10:52:51,540 - INFO - Download done.
+ 2022-09-15 10:53:10,432 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:53:10,708 - INFO - Download data from URL
+ 2022-09-15 10:53:10,968 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:53:11,161 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:53:11,359 - INFO - Status code: 200
+ 2022-09-15 10:53:11,359 - INFO - Error to download.
+ 2022-09-15 10:53:11,359 - INFO - Download done.
+ 2022-09-15 10:53:27,203 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:53:27,479 - INFO - Download data from URL
+ 2022-09-15 10:53:27,746 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:53:27,965 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:53:28,136 - INFO - Status code: 200
+ 2022-09-15 10:53:28,136 - INFO - Error to download.
+ 2022-09-15 10:53:28,136 - INFO - Download done.
+ 2022-09-15 10:54:10,560 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:54:10,834 - INFO - Download data from URL
+ 2022-09-15 10:54:10,894 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:54:11,125 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:54:11,220 - INFO - Status code: 200
+ 2022-09-15 10:54:11,221 - INFO - Error to download.
+ 2022-09-15 10:54:11,221 - INFO - Download done.
+ 2022-09-15 10:54:27,911 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:54:28,209 - INFO - Download data from URL
+ 2022-09-15 10:54:28,267 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:54:28,666 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:54:28,792 - INFO - Status code: 200
+ 2022-09-15 10:54:28,793 - INFO - Saving in JSON file.
+ 2022-09-15 10:54:28,796 - INFO - Download done.
+ 2022-09-15 10:55:16,347 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 10:55:16,608 - INFO - Download data from URL
+ 2022-09-15 10:55:16,839 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 10:55:17,083 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 10:55:17,185 - INFO - Status code: 200
+ 2022-09-15 10:55:17,186 - INFO - Saving in JSON file.
+ 2022-09-15 10:55:17,188 - INFO - Download done.
+ 2022-09-15 11:19:50,419 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:19:50,696 - INFO - Download data from URL
+ 2022-09-15 11:19:50,755 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:19:51,042 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:19:51,140 - INFO - Status code: 200
+ 2022-09-15 11:19:51,140 - INFO - Saving in JSON file.
+ 2022-09-15 11:19:51,143 - INFO - Download done.
+ 2022-09-15 11:20:22,540 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:20:22,813 - INFO - Download data from URL
+ 2022-09-15 11:20:22,867 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:20:23,264 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:20:23,359 - INFO - Status code: 200
+ 2022-09-15 11:20:23,360 - INFO - Saving in JSON file.
+ 2022-09-15 11:20:23,363 - INFO - Download done.
+ 2022-09-15 11:21:23,462 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:21:23,737 - INFO - Download data from URL
+ 2022-09-15 11:21:23,976 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:21:24,188 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:21:24,366 - INFO - Status code: 200
+ 2022-09-15 11:21:24,366 - INFO - Saving in JSON file.
+ 2022-09-15 11:21:24,369 - INFO - Download done.
+ 2022-09-15 11:30:01,182 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:30:01,461 - INFO - Download data from URL
+ 2022-09-15 11:30:01,513 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:30:01,745 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:30:01,973 - INFO - Status code: 200
+ 2022-09-15 11:30:01,973 - INFO - Saving in JSON file.
+ 2022-09-15 11:30:01,975 - INFO - Download done.
+ 2022-09-15 11:38:44,773 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:38:45,048 - INFO - Download data from URL
+ 2022-09-15 11:38:45,209 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:38:45,414 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:38:45,560 - INFO - Status code: 200
+ 2022-09-15 11:38:45,561 - INFO - Saving in JSON file.
+ 2022-09-15 11:38:45,563 - INFO - Download done.
+ 2022-09-15 11:47:23,667 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:47:23,947 - INFO - Download data from URL
+ 2022-09-15 11:47:24,214 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:47:24,431 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:47:24,603 - INFO - Status code: 200
+ 2022-09-15 11:47:24,604 - INFO - Saving in JSON file.
+ 2022-09-15 11:47:24,606 - INFO - Download done.
+ 2022-09-15 11:47:24,606 - INFO - Creating excel...
+ 2022-09-15 11:47:24,608 - INFO - Excel create succesfully!
+ 2022-09-15 11:48:53,996 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:48:54,266 - INFO - Download data from URL
+ 2022-09-15 11:48:54,431 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:48:54,638 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:48:54,781 - INFO - Status code: 200
+ 2022-09-15 11:48:54,782 - INFO - Saving in JSON file.
+ 2022-09-15 11:48:54,784 - INFO - Download done.
+ 2022-09-15 11:48:54,784 - INFO - Creating excel...
+ 2022-09-15 11:48:54,786 - INFO - Excel create succesfully!
+ 2022-09-15 11:52:30,604 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:52:30,881 - INFO - Download data from URL
+ 2022-09-15 11:52:30,939 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:52:31,171 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:52:31,458 - INFO - Status code: 200
+ 2022-09-15 11:52:31,459 - INFO - Saving in JSON file.
+ 2022-09-15 11:52:31,461 - INFO - Download done.
+ 2022-09-15 11:52:31,461 - INFO - Creating excel...
+ 2022-09-15 11:52:31,463 - ERROR - Err creating the excel
+ 2022-09-15 11:52:31,463 - INFO - Excel create succesfully!
+ 2022-09-15 11:52:56,906 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:52:57,176 - INFO - Download data from URL
+ 2022-09-15 11:52:57,241 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:52:57,673 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:52:57,776 - INFO - Status code: 200
+ 2022-09-15 11:52:57,777 - INFO - Saving in JSON file.
+ 2022-09-15 11:52:57,780 - INFO - Download done.
+ 2022-09-15 11:52:57,780 - INFO - Creating excel...
+ 2022-09-15 11:52:57,798 - INFO - Excel create succesfully!
+ 2022-09-15 11:54:02,929 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:54:03,201 - INFO - Download data from URL
+ 2022-09-15 11:54:03,251 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:54:03,461 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:54:03,733 - INFO - Status code: 200
+ 2022-09-15 11:54:03,733 - INFO - Saving in JSON file.
+ 2022-09-15 11:54:03,736 - INFO - Download done.
+ 2022-09-15 11:54:03,736 - INFO - Creating excel...
+ 2022-09-15 11:54:03,737 - ERROR - Err creating the excel
+ 2022-09-15 11:54:03,737 - INFO - Excel create succesfully!
+ 2022-09-15 11:54:47,312 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:54:47,597 - INFO - Download data from URL
+ 2022-09-15 11:54:47,820 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:54:48,022 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:54:48,165 - INFO - Status code: 200
+ 2022-09-15 11:54:48,166 - INFO - Saving in JSON file.
+ 2022-09-15 11:54:48,168 - INFO - Download done.
+ 2022-09-15 11:54:48,168 - INFO - Creating excel...
+ 2022-09-15 11:54:48,170 - ERROR - Err creating the excel
+ 2022-09-15 11:54:48,170 - INFO - Excel create succesfully!
+ 2022-09-15 11:56:07,228 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 11:56:07,491 - INFO - Download data from URL
+ 2022-09-15 11:56:07,563 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 11:56:07,856 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 11:56:07,953 - INFO - Status code: 200
+ 2022-09-15 11:56:07,954 - INFO - Saving in JSON file.
+ 2022-09-15 11:56:07,956 - INFO - Download done.
+ 2022-09-15 11:56:07,956 - INFO - Creating excel...
+ 2022-09-15 11:56:07,967 - INFO - Excel create succesfully!
+ 2022-09-15 12:16:20,515 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:16:20,964 - INFO - Download data from URL
+ 2022-09-15 12:16:21,028 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:16:21,247 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:16:21,346 - INFO - Status code: 200
+ 2022-09-15 12:16:21,347 - INFO - Saving in JSON file.
+ 2022-09-15 12:16:21,350 - INFO - Download done.
+ 2022-09-15 12:16:21,350 - INFO - Creating excel...
+ 2022-09-15 12:16:21,352 - ERROR - Err creating the excel
+ 2022-09-15 12:16:21,352 - INFO - Excel create succesfully!
+ 2022-09-15 12:17:50,512 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:17:50,788 - INFO - Download data from URL
+ 2022-09-15 12:17:50,974 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:17:51,192 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:17:51,321 - INFO - Status code: 200
+ 2022-09-15 12:17:51,322 - INFO - Saving in JSON file.
+ 2022-09-15 12:17:51,324 - INFO - Download done.
+ 2022-09-15 12:17:51,324 - INFO - Creating excel...
+ 2022-09-15 12:17:51,326 - ERROR - Err creating the excel
+ 2022-09-15 12:17:51,326 - INFO - Excel create succesfully!
+ 2022-09-15 12:21:30,550 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:21:30,815 - INFO - Download data from URL
+ 2022-09-15 12:21:30,864 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:21:31,234 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:21:31,360 - INFO - Status code: 200
+ 2022-09-15 12:21:31,361 - INFO - Saving in JSON file.
+ 2022-09-15 12:21:31,364 - INFO - Download done.
+ 2022-09-15 12:21:31,364 - INFO - Creating excel...
+ 2022-09-15 12:21:31,365 - ERROR - Err creating the excel
+ 2022-09-15 12:21:31,366 - INFO - Excel create succesfully!
+ 2022-09-15 12:21:54,055 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:21:54,370 - INFO - Download data from URL
+ 2022-09-15 12:21:54,432 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:21:54,711 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:21:54,816 - INFO - Status code: 200
+ 2022-09-15 12:21:54,816 - INFO - Saving in JSON file.
+ 2022-09-15 12:21:54,819 - INFO - Download done.
+ 2022-09-15 12:21:54,819 - INFO - Creating excel...
+ 2022-09-15 12:21:54,821 - ERROR - Err creating the excel
+ 2022-09-15 12:21:54,821 - INFO - Excel create succesfully!
+ 2022-09-15 12:22:33,240 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:22:33,514 - INFO - Download data from URL
+ 2022-09-15 12:22:33,589 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:22:33,784 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:22:34,046 - INFO - Status code: 200
+ 2022-09-15 12:22:34,047 - INFO - Saving in JSON file.
+ 2022-09-15 12:22:34,049 - INFO - Download done.
+ 2022-09-15 12:22:34,049 - INFO - Creating excel...
+ 2022-09-15 12:22:34,051 - ERROR - Err creating the excel
+ 2022-09-15 12:22:34,051 - INFO - Excel create succesfully!
+ 2022-09-15 12:22:44,245 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:22:44,523 - INFO - Download data from URL
+ 2022-09-15 12:22:44,535 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:22:44,745 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:22:44,923 - INFO - Status code: 200
+ 2022-09-15 12:22:44,924 - INFO - Saving in JSON file.
+ 2022-09-15 12:22:44,926 - INFO - Download done.
+ 2022-09-15 12:22:44,926 - INFO - Creating excel...
+ 2022-09-15 12:22:44,937 - INFO - Excel create succesfully!
+ 2022-09-15 12:32:20,529 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:32:20,805 - INFO - Download data from URL
+ 2022-09-15 12:32:20,858 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:32:21,265 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:32:21,361 - INFO - Status code: 200
+ 2022-09-15 12:32:21,362 - INFO - Saving in JSON file.
+ 2022-09-15 12:32:21,365 - INFO - Download done.
+ 2022-09-15 12:32:21,365 - INFO - Creating excel...
+ 2022-09-15 12:32:21,367 - ERROR - Err creating the excel
+ 2022-09-15 12:32:21,367 - INFO - Excel create succesfully!
+ 2022-09-15 12:32:31,639 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:32:31,913 - INFO - Download data from URL
+ 2022-09-15 12:32:31,926 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:32:32,142 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:32:32,240 - INFO - Status code: 200
+ 2022-09-15 12:32:32,241 - INFO - Saving in JSON file.
+ 2022-09-15 12:32:32,244 - INFO - Download done.
+ 2022-09-15 12:32:32,244 - INFO - Creating excel...
+ 2022-09-15 12:32:32,255 - INFO - Excel create succesfully!
+ 2022-09-15 12:33:15,834 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:33:16,115 - INFO - Download data from URL
+ 2022-09-15 12:33:16,225 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:33:16,444 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:33:16,548 - INFO - Status code: 200
+ 2022-09-15 12:33:16,549 - INFO - Saving in JSON file.
+ 2022-09-15 12:33:16,552 - INFO - Download done.
+ 2022-09-15 12:33:16,552 - INFO - Creating excel...
+ 2022-09-15 12:33:16,554 - ERROR - Err creating the excel
+ 2022-09-15 12:33:16,554 - INFO - Excel create succesfully!
+ 2022-09-15 12:36:15,828 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:36:16,105 - INFO - Download data from URL
+ 2022-09-15 12:36:16,188 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:36:16,391 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:36:16,539 - INFO - Status code: 200
+ 2022-09-15 12:36:16,539 - INFO - Saving in JSON file.
+ 2022-09-15 12:36:16,542 - INFO - Download done.
+ 2022-09-15 12:36:16,542 - INFO - Creating excel...
+ 2022-09-15 12:36:16,552 - INFO - Excel create succesfully!
+ 2022-09-15 12:36:28,717 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:36:28,990 - INFO - Download data from URL
+ 2022-09-15 12:36:29,001 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:36:29,225 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:36:29,321 - INFO - Status code: 200
+ 2022-09-15 12:36:29,322 - INFO - Saving in JSON file.
+ 2022-09-15 12:36:29,325 - INFO - Download done.
+ 2022-09-15 12:36:29,325 - INFO - Creating excel...
+ 2022-09-15 12:36:29,335 - INFO - Excel create succesfully!
+ 2022-09-15 12:36:53,429 - INFO - NumExpr defaulting to 8 threads.
+ 2022-09-15 12:36:53,699 - INFO - Download data from URL
+ 2022-09-15 12:36:53,936 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-15 12:36:54,134 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18857
+ 2022-09-15 12:36:54,288 - INFO - Status code: 200
+ 2022-09-15 12:36:54,288 - INFO - Saving in JSON file.
+ 2022-09-15 12:36:54,290 - INFO - Download done.
+ 2022-09-15 12:36:54,290 - INFO - Creating excel...
+ 2022-09-15 12:36:54,306 - INFO - Excel create succesfully!
