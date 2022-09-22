@@ -22,7 +22,7 @@
         "actor": "Daniel Radcliffe",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+        "image": "https://hp-api.herokuapp.com/images/harry.jpg"
     },
     {
         "name": "Hermione Granger",
@@ -47,7 +47,7 @@
         "actor": "Emma Watson",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
+        "image": "https://hp-api.herokuapp.com/images/hermione.jpeg"
     },
     {
         "name": "Ron Weasley",
@@ -74,7 +74,7 @@
         "actor": "Rupert Grint",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+        "image": "https://hp-api.herokuapp.com/images/ron.jpg"
     },
     {
         "name": "Minerva McGonagall",
@@ -99,7 +99,7 @@
         "actor": "Dame Maggie Smith",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+        "image": "https://hp-api.herokuapp.com/images/mcgonagall.jpg"
     },
     {
         "name": "Rubeus Hagrid",
@@ -124,7 +124,7 @@
         "actor": "Robbie Coltrane",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+        "image": "https://hp-api.herokuapp.com/images/hagrid.png"
     },
     {
         "name": "Neville Longbottom",
@@ -149,7 +149,7 @@
         "actor": "Matthew Lewis",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+        "image": "https://hp-api.herokuapp.com/images/neville.jpg"
     },
     {
         "name": "Ginny Weasley",
@@ -174,7 +174,7 @@
         "actor": "Bonnie Wright",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+        "image": "https://hp-api.herokuapp.com/images/ginny.jpg"
     },
     {
         "name": "Sirius Black",
@@ -205,7 +205,7 @@
             "Rohan Gotobed"
         ],
         "alive": false,
-        "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+        "image": "https://hp-api.herokuapp.com/images/sirius.JPG"
     },
     {
         "name": "Remus Lupin",
@@ -234,7 +234,7 @@
         "actor": "David Thewlis",
         "alternate_actors": [],
         "alive": false,
-        "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+        "image": "https://hp-api.herokuapp.com/images/lupin.jpg"
     },
     {
         "name": "Arthur Weasley",
@@ -259,7 +259,7 @@
         "actor": "Mark Williams",
         "alternate_actors": [],
         "alive": true,
-        "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+        "image": "https://hp-api.herokuapp.com/images/arthur.jpg"
     },
     {
         "name": "Lily Potter",

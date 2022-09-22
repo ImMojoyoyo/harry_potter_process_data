@@ -26,7 +26,7 @@ CREDENTIALS = Input_mysql_credentials()
 CREDENTIALS.displayInput()
 
 
-# Connection with MySQL
+# TODO: Connection with MySQL
 mysql_auth = {'host': CREDENTIALS.host, 
               'database' : CREDENTIALS.database, 
               'user' : CREDENTIALS.user, 

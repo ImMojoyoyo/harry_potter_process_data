@@ -39,27 +39,27 @@ class Api:
                     'wizard' : item['wizard'],
                     'hogwarts_student' : item['hogwartsStudent'],
                     'ancestry' : item['ancestry'],
-                    'wand' : item['wand'],
-                    'image' : item['image']        
+                    'wand' : str(item['wand']),
+                    'image' : str(item['image'])        
                 }
                 arr.append(obj)
             #pprint.pprint(arr)
             
-            
-            
-            # TODO: pasar todos los header a la funcion de 'class_exel' -> procesar datos
             
             #  Write and save the data in document.
             logging.info('Saving in JSON file.')
             readble_file = 'data/readable_hp_data.json'
             with open(readble_file, 'w') as f :
                 json.dump(data, f, indent=4) 
-                
             
-            return arr # This function return our data.
-            
+           
+            # This function return our data.
+            return arr 
+             
         except :
             logging.info('Error to download.')
+            
+            
         finally:
            logging.info('Download done.') 
         
