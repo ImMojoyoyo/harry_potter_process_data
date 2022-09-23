@@ -73,6 +73,8 @@ class Mysql_connection :
                 else:
                     pprint('We have tables')
                     
+                # TODO: Create new queries
+                    
                 # Trigger a querie to our database.
                 #cursor.execute("DROP TABLE User;")
                 #result = cursor.execute(show_tables)
