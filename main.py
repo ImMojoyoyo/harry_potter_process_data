@@ -6,7 +6,7 @@
 from class_api import Api # API
 from class_inputs import Input_mysql_credentials # Inputs
 from class_excel import Excel
-#from class_mysql import Mysql_connection
+from class_mysql import Mysql_connection
 from pprint import pprint
 
 
@@ -33,8 +33,8 @@ mysql_auth = {'host': CREDENTIALS.host,
               'password' : CREDENTIALS.password}
 
 
-#mysqlcn = Mysql_connection(mysql_auth['host'], mysql_auth['database'], mysql_auth['user'], mysql_auth['password'])  # Insert the arguments that the instance need.
-#mysqlcn.connection_mysql()
+mysqlcn = Mysql_connection(mysql_auth['host'], mysql_auth['database'], mysql_auth['user'], mysql_auth['password'])  # Insert the arguments that the instance need.
+mysqlcn.connection_mysql()
 
 
 # TODO: Insert the data in Mysql database.

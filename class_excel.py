@@ -23,14 +23,13 @@ class Excel:
         try:
             logging.info('Creating excel...')
             # Create our excel
-            print('Creating excel...')
             wb = openpyxl.Workbook() # Create a blank workbook
             
             
             # Create our sheet.
             sheet = wb.active
             sheet.title = 'harry_potter_characters'
-            print(wb.sheetnames)
+            logging.info(f"Sheet name is: {sheet.title}")
             
             
             # Insert headers in our worksheet.
@@ -38,14 +37,14 @@ class Excel:
             header_keys_excel = [] #Store the keys of our JSON 
             for k in data[0].keys():
                 header_keys_excel.append(k.title())
-            print(header_keys_excel) 
+            #print(header_keys_excel) 
                        
             
             # Insert the headers.
             for index, value in enumerate(header_keys_excel):
                 sheet.cell(1, index + 1).value = value 
             
-            # TODO: Insert data in rows.
+            # Insert data in rows.
             hp_data = [] 
             for v in data:
                 name = v['name']
@@ -61,11 +60,10 @@ class Excel:
                 image = str(v['image'])
                 hp_data.append([name, gender, date_of_birth, hair_colour, species, house, wizard, hogwarts_student, ancestry, wand, image])
             #pprint(hp_data)
-            
-            
             for i in range(len(data)):
                 for index, value in enumerate(hp_data[i]):
                     sheet.cell( i + 2  , index + 1 , value = value)
+            logging.info('Insert data correctly')
             
             
             # Save our workbook

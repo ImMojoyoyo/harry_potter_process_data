@@ -2,6 +2,7 @@
 # class_mysql.py - Create the connection to our mysql service.
 
 # Mysql modules
+from pprint import pprint
 import mysql.connector
 from mysql.connector import Error
 
@@ -30,13 +31,22 @@ class Mysql_connection :
                                                  user = self.user, 
                                                  password = self.password)
             
+            
             # Querie
-            mysql_querie_create_table = """CREATE TABLE User ( 
-                                        Id int(11) NOT NULL,
-                                        Name varchar(250) NOT NULL,
-                                        Lastname varchar(3) NOT NULL,
-                                        Phone varchar(9) NOT NULL,
-                                        PRIMARY KEY (Id)) """
+            mysql_querie_create_table = """ CREATE TABLE harry_potter_characters ( 
+                                        id int(11) NOT NULL,
+                                        name varchar(250) NOT NULL,
+                                        gender varchar(15) NOT NULL,
+                                        date_of_birth varchar(15) NOT NULL,
+                                        hair_colour varchar(20) NOT NULL,
+                                        species varchar(20) NOT NULL,
+                                        house varchar(50) NOT NULL,
+                                        wizard varchar(10) NOT NULL,
+                                        hogwarts_student varchar(10) NOT NULL,
+                                        ancestry varchar(15) NOT NULL,
+                                        wand varchar(200) NOT NULL,
+                                        image varchar(200) NOT NULL,                                    
+                                        PRIMARY KEY (Id))  """
                                         
                                         
                                         
@@ -44,18 +54,29 @@ class Mysql_connection :
                 
                 # Get the info of our database.
                 db_Info = CONNECTION.get_server_info()
-                print("Connected to MySQL Server version ", db_Info)
+                logging.info("Connected to MySQL Server version ", db_Info)
                 
                 # Get the info of our tables.
                 cursor = CONNECTION.cursor()
-                cursor.execute("select database();")
+                cursor.execute("select database();") # Show the database that we're connected.
                 record = cursor.fetchone()
-                print("You're connected to database: ", record)
+                logging.info("You're connected to database: ", record)
                 
+                cursor.execute('show tables;')
+                tables = cursor.fetchone()
+                pprint(tables)
+                
+                # TODO: Check if our database have tables or not.
+                if tables == None:
+                    cursor.execute(mysql_querie_create_table)
+                    pprint('Table created!')
+                else:
+                    pprint('We have tables')
+                    
                 # Trigger a querie to our database.
                 #cursor.execute("DROP TABLE User;")
-                result = cursor.execute(mysql_querie_create_table)
-                print(result)
+                #result = cursor.execute(show_tables)
+                #print(result)
                 
                 
             
@@ -68,5 +89,15 @@ class Mysql_connection :
                 cursor.close()
                 CONNECTION.close()
                 logging.info("MySQL connection is close!")
-            
+    
+    # Function 'insert data' in database.      
+    def insert_data():
+        try:
+            logging.info("Inserting data in database...")
         
+        except:
+            logging.error("Inserting data in database FAILED")
+        
+        finally:
+            logging.info("Finished process insert data in database.")
+            logging.info('Succes!')
