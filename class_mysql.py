@@ -33,7 +33,7 @@ class Mysql_connection :
             
             
             # Querie
-            mysql_querie_create_table = """ CREATE TABLE harry_potter_characters ( 
+            mysql_querie_create_table = """ CREATE TABLE harry_potter_character ( 
                                         id int(11) NOT NULL,
                                         name varchar(250) NOT NULL,
                                         gender varchar(15) NOT NULL,
