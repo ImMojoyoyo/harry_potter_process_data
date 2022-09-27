@@ -34,7 +34,7 @@ mysql_auth = {'host': CREDENTIALS.host,
 
 
 mysqlcn = Mysql_connection(mysql_auth['host'], mysql_auth['database'], mysql_auth['user'], mysql_auth['password'])  # Insert the arguments that the instance need.
-mysqlcn.connection_mysql()
+mysqlcn.connection_mysql(data)
 
 
 # TODO: Insert the data in Mysql database.

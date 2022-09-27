@@ -5,7 +5,7 @@
 # Request - Module
 import requests, json, pprint
 import logging
-logging.basicConfig(filename="log/myProgramLog.log",level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename="myProgramLog.log",level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
 
 class Api:
@@ -58,9 +58,10 @@ class Api:
              
         except :
             logging.info('Error to download.')
-            
+            print('Error to download.') 
             
         finally:
            logging.info('Download done.') 
+           print('Download done.') 
         
         

@@ -20,68 +20,75 @@ class Mysql_connection :
         self.password = password
 
     # Function that create the connection.
-    def connection_mysql(self):
+    def connection_mysql(self, data):
         #Create the connection to our mysql service.
         try:
+            
+            # Connectio to our DATABASE
             logging.info("Trying to connect...")
             print("Trying to connect...")
-            # Credentials
             CONNECTION = mysql.connector.connect(host = self.host, 
                                                  database = self.database, 
                                                  user = self.user, 
                                                  password = self.password)
-            
-            
-            # Querie
-            mysql_querie_create_table = """ CREATE TABLE harry_potter_character ( 
-                                        id int(11) NOT NULL,
-                                        name varchar(250) NOT NULL,
-                                        gender varchar(15) NOT NULL,
-                                        date_of_birth varchar(15) NOT NULL,
-                                        hair_colour varchar(20) NOT NULL,
-                                        species varchar(20) NOT NULL,
-                                        house varchar(50) NOT NULL,
-                                        wizard varchar(10) NOT NULL,
-                                        hogwarts_student varchar(10) NOT NULL,
-                                        ancestry varchar(15) NOT NULL,
-                                        wand varchar(200) NOT NULL,
-                                        image varchar(200) NOT NULL,                                    
-                                        PRIMARY KEY (Id))  """
-                                        
-                                        
-                                        
+                            
+            # If you are connected to the database.                          
             if CONNECTION.is_connected():
+                
+                #TODO : Querie to create our table
+                
                 
                 # Get the info of our database.
                 db_Info = CONNECTION.get_server_info()
-                logging.info("Connected to MySQL Server version ", db_Info)
+                print("Connected to MySQL Server version ", db_Info)
                 
                 # Get the info of our tables.
                 cursor = CONNECTION.cursor()
                 cursor.execute("select database();") # Show the database that we're connected.
-                record = cursor.fetchone()
-                logging.info("You're connected to database: ", record)
+                record = cursor.fetchone() # Store the data of our selection
+                print("You're connected to database: ", record)
                 
+                # Show tables
                 cursor.execute('show tables;')
                 tables = cursor.fetchone()
+                print('Our tables')
                 pprint(tables)
                 
-                # TODO: Check if our database have tables or not.
-                if tables == None:
-                    cursor.execute(mysql_querie_create_table)
-                    pprint('Table created!')
-                else:
-                    pprint('We have tables')
-                    
-                # TODO: Create new queries
-                    
-                # Trigger a querie to our database.
-                #cursor.execute("DROP TABLE User;")
-                #result = cursor.execute(show_tables)
-                #print(result)
+                # Executing querie
+                #cursor.execute();
+                
+                # TODO: Getting data to insert in database
+                print('Our API Data:')
+                #pprint(data)
+                
+                # Insert data in rows.
+                hp_data = [] 
+                for v in data:
+                    name = v['name']
+                    gender = v['gender']
+                    date_of_birth = v['date_of_birth']
+                    hair_colour = v['hair_colour']
+                    species = v['species']
+                    house = v['house']
+                    wizard = v['wizard']
+                    hogwarts_student = v['hogwarts_student']
+                    ancestry = v['ancestry']
+                    wand = str(v['wand'])
+                    image = str(v['image'])
+                    hp_data.append([name, gender, date_of_birth, hair_colour, species, house, wizard, hogwarts_student, ancestry, wand, image])
+                pprint(hp_data)
                 
                 
-            
+                # Insert Data
+                # TODO: For each item in hp_data we need do this.
+                sql = "INSERT INTO user  VALUES (%s, %s)"
+                val = ("Sergi", "Sarrió Vila")
+                cursor.execute(sql, val)
+                
+                # Commit to save the data in database
+                CONNECTION.commit()
+                print(cursor.rowcount, 'Filled row')
+ 
         except Error as e:
             print("Err while try to connect", e)
             logging.error(f"Error with the database {e}")
@@ -92,14 +99,6 @@ class Mysql_connection :
                 CONNECTION.close()
                 logging.info("MySQL connection is close!")
     
-    # Function 'insert data' in database.      
-    def insert_data():
-        try:
-            logging.info("Inserting data in database...")
-        
-        except:
-            logging.error("Inserting data in database FAILED")
-        
-        finally:
-            logging.info("Finished process insert data in database.")
-            logging.info('Succes!')
+    
+    
+    
