@@ -19,25 +19,24 @@ data = api.request_data()
 xlsx = Excel()
 xlsx.processing_data(data)
 
-
+#TODO : QUITAR EL COMENTARIO
 #Input Credentials
 # Store the host, database, user and password. 
-CREDENTIALS = Input_mysql_credentials()
-CREDENTIALS.displayInput()
+#CREDENTIALS = Input_mysql_credentials()
+#CREDENTIALS.displayInput()
 
-
-# TODO: Connection with MySQL
-mysql_auth = {'host': CREDENTIALS.host, 
+#TODO : QUITAR EL COMENTARIO
+# Connection with MySQL
+"""mysql_auth = {'host': CREDENTIALS.host, 
               'database' : CREDENTIALS.database, 
               'user' : CREDENTIALS.user, 
-              'password' : CREDENTIALS.password}
+              'password' : CREDENTIALS.password}"""
 
+pprint(data)
 
-mysqlcn = Mysql_connection(mysql_auth['host'], mysql_auth['database'], mysql_auth['user'], mysql_auth['password'])  # Insert the arguments that the instance need.
+#mysqlcn = Mysql_connection(mysql_auth['host'], mysql_auth['database'], mysql_auth['user'], mysql_auth['password'])  # Insert the arguments that the instance need.
+mysqlcn = Mysql_connection()
 mysqlcn.connection_mysql(data)
-
-
-# TODO: Insert the data in Mysql database.
 
 
 

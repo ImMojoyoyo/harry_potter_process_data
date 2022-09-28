@@ -10,7 +10,7 @@ logging.basicConfig(filename="myProgramLog.log",level=logging.DEBUG, format=' %(
 
 class Api:
     def __init__(self):
-        self.url = 'http://hp-api.herokuapp.com/api/characters/house/gryffindor'
+        self.url = 'https://hp-api.herokuapp.com/api/characters'
         
     def request_data(self):
         try:  
@@ -45,23 +45,23 @@ class Api:
                 arr.append(obj)
             #pprint.pprint(arr)
             
-            
+            # TODO: Make a condition to see if the file is filled before or not.
             #  Write and save the data in document.
-            logging.info('Saving in JSON file.')
+            """logging.info('Saving in JSON file.')
             readble_file = 'data/readable_hp_data.json'
             with open(readble_file, 'w') as f :
-                json.dump(data, f, indent=4) 
+                json.dump(data, f, indent=4)""" 
             
            
-            # This function return our data.
+            # This variable return our data.
             return arr 
              
         except :
-            logging.info('Error to download.')
+            logging.error('Error to download.')
             print('Error to download.') 
             
         finally:
-           logging.info('Download done.') 
-           print('Download done.') 
+           logging.info('Finish') 
+           print('Finish') 
         
         

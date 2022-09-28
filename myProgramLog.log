@@ -355,3 +355,279 @@
  2022-09-27 17:35:06,585 - INFO - Excel create succesfully!
  2022-09-27 17:35:19,632 - INFO - Trying to connect...
  2022-09-27 17:35:19,662 - INFO - MySQL connection is close!
+ 2022-09-27 20:27:31,833 - INFO - Download data from URL
+ 2022-09-27 20:27:31,888 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:27:32,102 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:27:32,201 - INFO - Status code: 200
+ 2022-09-27 20:27:32,202 - INFO - Saving in JSON file.
+ 2022-09-27 20:27:32,205 - INFO - Download done.
+ 2022-09-27 20:27:32,205 - INFO - Creating excel...
+ 2022-09-27 20:27:32,207 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:27:32,210 - INFO - Insert data correctly
+ 2022-09-27 20:27:32,224 - INFO - Woorkbook saved!
+ 2022-09-27 20:27:32,224 - INFO - Excel create succesfully!
+ 2022-09-27 20:27:52,537 - INFO - Trying to connect...
+ 2022-09-27 20:27:52,625 - INFO - MySQL connection is close!
+ 2022-09-27 20:31:00,940 - INFO - Download data from URL
+ 2022-09-27 20:31:00,992 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:31:01,192 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:31:01,288 - INFO - Status code: 200
+ 2022-09-27 20:31:01,289 - INFO - Saving in JSON file.
+ 2022-09-27 20:31:01,292 - INFO - Download done.
+ 2022-09-27 20:31:01,292 - INFO - Creating excel...
+ 2022-09-27 20:31:01,293 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:31:01,297 - INFO - Insert data correctly
+ 2022-09-27 20:31:01,309 - INFO - Woorkbook saved!
+ 2022-09-27 20:31:01,309 - INFO - Excel create succesfully!
+ 2022-09-27 20:31:14,866 - INFO - Trying to connect...
+ 2022-09-27 20:31:14,891 - INFO - MySQL connection is close!
+ 2022-09-27 20:42:44,950 - INFO - Download data from URL
+ 2022-09-27 20:42:45,004 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:42:45,215 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:42:45,317 - INFO - Status code: 200
+ 2022-09-27 20:42:45,318 - INFO - Saving in JSON file.
+ 2022-09-27 20:42:45,321 - INFO - Download done.
+ 2022-09-27 20:42:45,321 - INFO - Creating excel...
+ 2022-09-27 20:42:45,323 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:42:45,326 - INFO - Insert data correctly
+ 2022-09-27 20:42:45,339 - INFO - Woorkbook saved!
+ 2022-09-27 20:42:45,340 - INFO - Excel create succesfully!
+ 2022-09-27 20:42:55,725 - INFO - Trying to connect...
+ 2022-09-27 20:42:55,760 - INFO - MySQL connection is close!
+ 2022-09-27 20:43:22,561 - INFO - Download data from URL
+ 2022-09-27 20:43:22,648 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:43:22,861 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:43:22,963 - INFO - Status code: 200
+ 2022-09-27 20:43:22,964 - INFO - Saving in JSON file.
+ 2022-09-27 20:43:22,967 - INFO - Download done.
+ 2022-09-27 20:43:22,967 - INFO - Creating excel...
+ 2022-09-27 20:43:22,969 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:43:22,972 - INFO - Insert data correctly
+ 2022-09-27 20:43:22,985 - INFO - Woorkbook saved!
+ 2022-09-27 20:43:22,986 - INFO - Excel create succesfully!
+ 2022-09-27 20:43:40,355 - INFO - Trying to connect...
+ 2022-09-27 20:43:40,381 - INFO - MySQL connection is close!
+ 2022-09-27 20:50:44,123 - INFO - Download data from URL
+ 2022-09-27 20:50:44,198 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:50:44,413 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:50:44,514 - INFO - Status code: 200
+ 2022-09-27 20:50:44,515 - INFO - Saving in JSON file.
+ 2022-09-27 20:50:44,518 - INFO - Download done.
+ 2022-09-27 20:50:44,518 - INFO - Creating excel...
+ 2022-09-27 20:50:44,520 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:50:44,523 - INFO - Insert data correctly
+ 2022-09-27 20:50:44,536 - INFO - Woorkbook saved!
+ 2022-09-27 20:50:44,536 - INFO - Excel create succesfully!
+ 2022-09-27 20:50:57,086 - INFO - Trying to connect...
+ 2022-09-27 20:50:57,107 - INFO - MySQL connection is close!
+ 2022-09-27 20:51:57,063 - INFO - Download data from URL
+ 2022-09-27 20:51:57,112 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:51:57,300 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:51:57,392 - INFO - Status code: 200
+ 2022-09-27 20:51:57,393 - INFO - Saving in JSON file.
+ 2022-09-27 20:51:57,396 - INFO - Download done.
+ 2022-09-27 20:51:57,396 - INFO - Creating excel...
+ 2022-09-27 20:51:57,398 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:51:57,401 - INFO - Insert data correctly
+ 2022-09-27 20:51:57,413 - INFO - Woorkbook saved!
+ 2022-09-27 20:51:57,413 - INFO - Excel create succesfully!
+ 2022-09-27 20:52:09,665 - INFO - Trying to connect...
+ 2022-09-27 20:52:09,685 - INFO - MySQL connection is close!
+ 2022-09-27 20:52:28,121 - INFO - Download data from URL
+ 2022-09-27 20:52:28,177 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 20:52:28,394 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 20:52:28,498 - INFO - Status code: 200
+ 2022-09-27 20:52:28,499 - INFO - Saving in JSON file.
+ 2022-09-27 20:52:28,502 - INFO - Download done.
+ 2022-09-27 20:52:28,502 - INFO - Creating excel...
+ 2022-09-27 20:52:28,503 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 20:52:28,507 - INFO - Insert data correctly
+ 2022-09-27 20:52:28,519 - INFO - Woorkbook saved!
+ 2022-09-27 20:52:28,519 - INFO - Excel create succesfully!
+ 2022-09-27 20:52:41,448 - INFO - Trying to connect...
+ 2022-09-27 20:52:41,470 - INFO - Insert data correctly
+ 2022-09-27 20:52:41,472 - INFO - MySQL connection is close!
+ 2022-09-27 21:10:19,257 - INFO - Download data from URL
+ 2022-09-27 21:10:19,307 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:10:19,534 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:10:19,640 - INFO - Status code: 200
+ 2022-09-27 21:10:19,640 - INFO - Saving in JSON file.
+ 2022-09-27 21:10:19,643 - INFO - Download done.
+ 2022-09-27 21:10:19,643 - INFO - Creating excel...
+ 2022-09-27 21:10:19,645 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:10:19,648 - INFO - Insert data correctly
+ 2022-09-27 21:10:19,661 - INFO - Woorkbook saved!
+ 2022-09-27 21:10:19,661 - INFO - Excel create succesfully!
+ 2022-09-27 21:10:31,917 - INFO - Trying to connect...
+ 2022-09-27 21:10:31,943 - INFO - Insert data correctly
+ 2022-09-27 21:10:31,943 - INFO - MySQL connection is close!
+ 2022-09-27 21:11:24,241 - INFO - Download data from URL
+ 2022-09-27 21:11:24,292 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:11:24,503 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:11:24,639 - INFO - Status code: 200
+ 2022-09-27 21:11:24,641 - INFO - Saving in JSON file.
+ 2022-09-27 21:11:24,643 - INFO - Download done.
+ 2022-09-27 21:11:24,644 - INFO - Creating excel...
+ 2022-09-27 21:11:24,645 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:11:24,649 - INFO - Insert data correctly
+ 2022-09-27 21:11:24,662 - INFO - Woorkbook saved!
+ 2022-09-27 21:11:24,663 - INFO - Excel create succesfully!
+ 2022-09-27 21:11:34,423 - INFO - Trying to connect...
+ 2022-09-27 21:11:34,552 - INFO - Insert data correctly
+ 2022-09-27 21:11:34,554 - INFO - MySQL connection is close!
+ 2022-09-27 21:13:50,543 - INFO - Download data from URL
+ 2022-09-27 21:13:50,592 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:13:50,809 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:13:50,913 - INFO - Status code: 200
+ 2022-09-27 21:13:50,914 - INFO - Saving in JSON file.
+ 2022-09-27 21:13:50,917 - INFO - Download done.
+ 2022-09-27 21:13:50,917 - INFO - Creating excel...
+ 2022-09-27 21:13:50,918 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:13:50,922 - INFO - Insert data correctly
+ 2022-09-27 21:13:50,934 - INFO - Woorkbook saved!
+ 2022-09-27 21:13:50,934 - INFO - Excel create succesfully!
+ 2022-09-27 21:14:11,743 - INFO - Trying to connect...
+ 2022-09-27 21:14:11,762 - ERROR - Error with the database Unread result found
+ 2022-09-27 21:24:05,866 - INFO - Download data from URL
+ 2022-09-27 21:24:05,918 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:24:06,278 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:24:06,410 - INFO - Status code: 200
+ 2022-09-27 21:24:06,411 - INFO - Saving in JSON file.
+ 2022-09-27 21:24:06,414 - INFO - Download done.
+ 2022-09-27 21:24:06,414 - INFO - Creating excel...
+ 2022-09-27 21:24:06,415 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:24:06,419 - INFO - Insert data correctly
+ 2022-09-27 21:24:06,431 - INFO - Woorkbook saved!
+ 2022-09-27 21:24:06,431 - INFO - Excel create succesfully!
+ 2022-09-27 21:24:23,022 - INFO - Trying to connect...
+ 2022-09-27 21:24:23,036 - ERROR - Error with the database Unread result found
+ 2022-09-27 21:25:04,801 - INFO - Download data from URL
+ 2022-09-27 21:25:04,855 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:25:05,077 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:25:05,182 - INFO - Status code: 200
+ 2022-09-27 21:25:05,184 - INFO - Saving in JSON file.
+ 2022-09-27 21:25:05,193 - INFO - Download done.
+ 2022-09-27 21:25:05,193 - INFO - Creating excel...
+ 2022-09-27 21:25:05,195 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:25:05,199 - INFO - Insert data correctly
+ 2022-09-27 21:25:05,211 - INFO - Woorkbook saved!
+ 2022-09-27 21:25:05,211 - INFO - Excel create succesfully!
+ 2022-09-27 21:25:17,392 - INFO - Trying to connect...
+ 2022-09-27 21:25:17,414 - ERROR - Error with the database Unread result found
+ 2022-09-27 21:25:35,353 - INFO - Download data from URL
+ 2022-09-27 21:25:35,407 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:25:35,622 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:25:35,726 - INFO - Status code: 200
+ 2022-09-27 21:25:35,727 - INFO - Saving in JSON file.
+ 2022-09-27 21:25:35,730 - INFO - Download done.
+ 2022-09-27 21:25:35,730 - INFO - Creating excel...
+ 2022-09-27 21:25:35,731 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:25:35,735 - INFO - Insert data correctly
+ 2022-09-27 21:25:35,748 - INFO - Woorkbook saved!
+ 2022-09-27 21:25:35,748 - INFO - Excel create succesfully!
+ 2022-09-27 21:25:50,264 - INFO - Trying to connect...
+ 2022-09-27 21:25:50,281 - ERROR - Error with the database Unread result found
+ 2022-09-27 21:28:20,428 - INFO - Download data from URL
+ 2022-09-27 21:28:20,545 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:28:20,765 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:28:20,871 - INFO - Status code: 200
+ 2022-09-27 21:28:20,872 - INFO - Saving in JSON file.
+ 2022-09-27 21:28:20,875 - INFO - Download done.
+ 2022-09-27 21:28:20,875 - INFO - Creating excel...
+ 2022-09-27 21:28:20,877 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:28:20,881 - INFO - Insert data correctly
+ 2022-09-27 21:28:20,892 - INFO - Woorkbook saved!
+ 2022-09-27 21:28:20,893 - INFO - Excel create succesfully!
+ 2022-09-27 21:28:34,012 - INFO - Trying to connect...
+ 2022-09-27 21:28:34,032 - INFO - Insert data correctly
+ 2022-09-27 21:28:34,032 - ERROR - Error with the database Unread result found
+ 2022-09-27 21:31:02,567 - INFO - Download data from URL
+ 2022-09-27 21:31:02,626 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-27 21:31:02,842 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-27 21:31:02,945 - INFO - Status code: 200
+ 2022-09-27 21:31:02,946 - INFO - Saving in JSON file.
+ 2022-09-27 21:31:02,949 - INFO - Download done.
+ 2022-09-27 21:31:02,949 - INFO - Creating excel...
+ 2022-09-27 21:31:02,951 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-27 21:31:02,954 - INFO - Insert data correctly
+ 2022-09-27 21:31:02,967 - INFO - Woorkbook saved!
+ 2022-09-27 21:31:02,967 - INFO - Excel create succesfully!
+ 2022-09-27 21:31:17,304 - INFO - Trying to connect...
+ 2022-09-27 21:31:17,324 - ERROR - Error with the database Unread result found
+ 2022-09-28 08:24:19,732 - INFO - Download data from URL
+ 2022-09-28 08:24:19,779 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-28 08:24:19,972 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-28 08:24:20,084 - INFO - Status code: 200
+ 2022-09-28 08:24:20,085 - INFO - Saving in JSON file.
+ 2022-09-28 08:24:20,088 - INFO - Download done.
+ 2022-09-28 08:24:20,088 - INFO - Creating excel...
+ 2022-09-28 08:24:20,090 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 08:24:20,093 - INFO - Insert data correctly
+ 2022-09-28 08:24:20,104 - INFO - Woorkbook saved!
+ 2022-09-28 08:24:20,104 - INFO - Excel create succesfully!
+ 2022-09-28 08:24:34,254 - INFO - Trying to connect...
+ 2022-09-28 08:24:34,384 - ERROR - Error with the database Unread result found
+ 2022-09-28 08:24:51,811 - INFO - Download data from URL
+ 2022-09-28 08:24:51,865 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-28 08:24:52,080 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-28 08:24:52,190 - INFO - Status code: 200
+ 2022-09-28 08:24:52,191 - INFO - Saving in JSON file.
+ 2022-09-28 08:24:52,193 - INFO - Download done.
+ 2022-09-28 08:24:52,194 - INFO - Creating excel...
+ 2022-09-28 08:24:52,195 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 08:24:52,198 - INFO - Insert data correctly
+ 2022-09-28 08:24:52,208 - INFO - Woorkbook saved!
+ 2022-09-28 08:24:52,208 - INFO - Excel create succesfully!
+ 2022-09-28 08:25:07,087 - INFO - Trying to connect...
+ 2022-09-28 08:25:07,108 - ERROR - Error with the database Unread result found
+ 2022-09-28 12:00:59,033 - INFO - Download data from URL
+ 2022-09-28 12:00:59,093 - DEBUG - Starting new HTTP connection (1): hp-api.herokuapp.com:80
+ 2022-09-28 12:00:59,296 - DEBUG - http://hp-api.herokuapp.com:80 "GET /api/characters/house/gryffindor HTTP/1.1" 200 18867
+ 2022-09-28 12:00:59,394 - INFO - Status code: 200
+ 2022-09-28 12:00:59,395 - INFO - Saving in JSON file.
+ 2022-09-28 12:00:59,406 - INFO - Download done.
+ 2022-09-28 12:00:59,406 - INFO - Creating excel...
+ 2022-09-28 12:00:59,409 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 12:00:59,413 - INFO - Insert data correctly
+ 2022-09-28 12:00:59,429 - INFO - Woorkbook saved!
+ 2022-09-28 12:00:59,429 - INFO - Excel create succesfully!
+ 2022-09-28 12:01:14,399 - INFO - Trying to connect...
+ 2022-09-28 12:01:14,447 - ERROR - Error with the database Unread result found
+ 2022-09-28 12:52:04,758 - INFO - Download data from URL
+ 2022-09-28 12:52:04,825 - DEBUG - Starting new HTTPS connection (1): hp-api.herokuapp.com:443
+ 2022-09-28 12:52:05,281 - DEBUG - https://hp-api.herokuapp.com:443 "GET /api/characters HTTP/1.1" 200 147455
+ 2022-09-28 12:52:05,583 - INFO - Status code: 200
+ 2022-09-28 12:52:05,662 - INFO - Saving in JSON file.
+ 2022-09-28 12:52:05,676 - INFO - Download done.
+ 2022-09-28 12:52:05,676 - INFO - Creating excel...
+ 2022-09-28 12:52:05,719 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 12:52:05,742 - INFO - Insert data correctly
+ 2022-09-28 12:52:05,803 - INFO - Woorkbook saved!
+ 2022-09-28 12:52:05,804 - INFO - Excel create succesfully!
+ 2022-09-28 12:52:05,804 - INFO - Trying to connect...
+ 2022-09-28 12:52:05,820 - ERROR - Error with the database Unread result found
+ 2022-09-28 12:56:21,636 - INFO - Download data from URL
+ 2022-09-28 12:56:21,688 - DEBUG - Starting new HTTPS connection (1): hp-api.herokuapp.com:443
+ 2022-09-28 12:56:22,123 - DEBUG - https://hp-api.herokuapp.com:443 "GET /api/characters HTTP/1.1" 200 147455
+ 2022-09-28 12:56:22,417 - INFO - Status code: 200
+ 2022-09-28 12:56:22,570 - INFO - Saving in JSON file.
+ 2022-09-28 12:56:22,597 - INFO - Download done.
+ 2022-09-28 12:56:22,598 - INFO - Creating excel...
+ 2022-09-28 12:56:22,599 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 12:56:22,625 - INFO - Insert data correctly
+ 2022-09-28 12:56:22,679 - INFO - Woorkbook saved!
+ 2022-09-28 12:56:22,679 - INFO - Excel create succesfully!
+ 2022-09-28 12:56:22,679 - INFO - Trying to connect...
+ 2022-09-28 12:56:46,149 - INFO - Download data from URL
+ 2022-09-28 12:56:46,253 - DEBUG - Starting new HTTPS connection (1): hp-api.herokuapp.com:443
+ 2022-09-28 12:56:46,690 - DEBUG - https://hp-api.herokuapp.com:443 "GET /api/characters HTTP/1.1" 200 147455
+ 2022-09-28 12:56:46,983 - INFO - Status code: 200
+ 2022-09-28 12:56:47,077 - INFO - Saving in JSON file.
+ 2022-09-28 12:56:47,092 - INFO - Download done.
+ 2022-09-28 12:56:47,093 - INFO - Creating excel...
+ 2022-09-28 12:56:47,094 - INFO - Sheet name is: harry_potter_characters
+ 2022-09-28 12:56:47,126 - INFO - Insert data correctly
+ 2022-09-28 12:56:47,179 - INFO - Woorkbook saved!
+ 2022-09-28 12:56:47,179 - INFO - Excel create succesfully!
+ 2022-09-28 12:56:47,179 - INFO - Trying to connect...
+ 2022-09-28 12:56:47,227 - INFO - MySQL connection is close!
