@@ -22,10 +22,10 @@ class Mysql_connection:
         self.database = database
         self.user = user
         self.password = password"""
-        self.host = "localhost"
-        self.database = "python_proof_one"
-        self.user = "root"
-        self.password = "CasiopeA04"
+        self.host = ""
+        self.database = ""
+        self.user = ""
+        self.password = ""
         
 
     # Function that create the connection.
